@@ -12,7 +12,7 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 ### 🧐 More About Me:
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="center" width="50%">
 
 👩‍💻 &nbsp; I'm currently working on learning .net cloud technology stack
 
@@ -25,8 +25,10 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 📝 &nbsp; Checkout my [resume](https://github.com/pankajlearning?tab=repositories)
     
 </td>
-<td valign="top" width="50%">
+<td valign="center" width="50%">
+
 ![pankajlearning's github stats](https://github-readme-stats.vercel.app/api?username=pankajlearning&show_icons=true&theme=tokyonight)
+
 </td>
 </tr>
 </table>
