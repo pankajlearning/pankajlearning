@@ -85,7 +85,15 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </div>       
 </td></tr></table>  
 
+
+
+
+<details><summary>
+
 ### :pencil: Exploring Technology 
+</summary>
+<p>
+    
 1. `Caching`
    - - [x] Memmory Cache (https://github.com/pankajlearning)
    - - [x] Distributed Cache (https://github.com/pankajlearning)
@@ -97,11 +105,12 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
    - - [ ] RabitMQ (https://github.com/pankajlearning)
    - - [ ] Mass Transit (https://github.com/pankajlearning)
 
-<br/> 
-
-##### Stats
+</p>
+</details>
+<!--
+### :trident: Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlearning&layout=compact)](https://github.com/pankajlearning/github-readme-stats)
-
+-->
 
 
