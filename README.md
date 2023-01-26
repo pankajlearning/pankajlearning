@@ -84,8 +84,8 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 <a href="https://about.gitlab.com" target="_blank"><img style="margin: 10px" src="https://about.gitlab.com/nuxt-images/ico/apple-touch-icon-180x180.png" alt="Git Lab" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in" target="_blank"><img style="margin: 10px" src="https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" alt="Azure" height="50" /></a>  
 </div>
-<a href="https://azure.microsoft.com/en-in" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png?20210815110837" alt="Azure" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="Docker" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png?20210815110837" alt="Azure" height="50" width="100" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="Docker" height="50" width="100" /></a>  
 </div>
         
 </td></tr></table>  
