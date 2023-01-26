@@ -9,8 +9,6 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 [![](https://img.shields.io/badge/-Pankaj%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/pankajlearning)](https://github.com/pankajlearning)
 
 
-
-
 ### 🧐 More About Me:
 <table>
 <tr>
@@ -28,18 +26,13 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
     
 </td>
 <td valign="top" width="50%">
-    
 ![pankajlearning's github stats](https://github-readme-stats.vercel.app/api?username=pankajlearning&show_icons=true&theme=tokyonight)
-
 </td>
 </tr>
 </table>
     
 
-
-
-
-## My Skill Set  
+### 🛠 Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
