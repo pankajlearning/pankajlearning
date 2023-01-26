@@ -2,9 +2,13 @@
 # Hey 👋, I'm Pankaj Tiwari!
 I am a full stack, and .Net developer. 
 
+I am exploring Maui , .Net7 and it's cloud technology, If you're interested in all things make sure you check it out 😄!
+
 [![](https://img.shields.io/badge/-@pankajlearning-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://github.com/pankajlearning)
 [![](https://img.shields.io/badge/-@pankajlearning-%23181717?style=flat-square&logo=github)](https://github.com/pankajlearning)
 [![](https://img.shields.io/badge/-Pankaj%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/pankajlearning)](https://github.com/pankajlearning)
+
+
 
 
 ### 🧐 More About Me:
@@ -19,14 +23,7 @@ I am a full stack, and .Net developer.
 📝 &nbsp; Checkout my [resume](https://github.com/pankajlearning?tab=repositories)
 
 
-## 🔗 Links
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pankajlearning&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-I am exploring .net and it's cloud technology, If you're interested in all things .NET make sure you check it out 😄!
 
 ## Stats
 ![pankajlearning's github stats](https://github-readme-stats.vercel.app/api?username=pankajlearning&show_icons=true&theme=tokyonight)
