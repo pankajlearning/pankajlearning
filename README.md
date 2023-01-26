@@ -28,7 +28,9 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
     
 </td>
 <td valign="top" width="50%">
+    
 ![pankajlearning's github stats](https://github-readme-stats.vercel.app/api?username=pankajlearning&show_icons=true&theme=tokyonight)
+
 </td>
 </tr>
 </table>
