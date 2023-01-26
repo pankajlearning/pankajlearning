@@ -2,7 +2,7 @@
 # Hey 👋, I'm Pankaj Tiwari!
 I am a full stack, and .Net developer. 
 
-I am exploring .Net7,it's cloud technology stacks and Xamarin Maui, If you're interested in all things make sure you check it out 😄!
+I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're interested in all things make sure you check it out 😄!
 
 [![](https://img.shields.io/badge/-@pankajlearning-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://github.com/pankajlearning)
 [![](https://img.shields.io/badge/-@pankajlearning-%23181717?style=flat-square&logo=github)](https://github.com/pankajlearning)
