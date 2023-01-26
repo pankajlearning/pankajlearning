@@ -42,8 +42,9 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 ### Frontend  
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg"alt=".NET"height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a> 
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+<a href="https://dotnet.microsoft.com/en-us/learn/maui" target="_blank"><img style="margin: 10px" src="https://learn.microsoft.com/en-us/samples/dotnet/maui-samples/apps-weathertwentyone/media/maui-weather-hero-sm.png" alt="Maui" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="50" /></a>  
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
@@ -80,8 +81,8 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="[https://github.com/](https://about.gitlab.com)" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg](https://about.gitlab.com/nuxt-images/ico/apple-touch-icon-180x180.png)" alt="Git Lab" height="50" /></a>  
-<a href="[https://github.com/](https://azure.microsoft.com/en-in)" target="_blank"><img style="margin: 10px" src="view-source:https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" alt="Azure" height="50" /></a>  
+<a href="https://about.gitlab.com" target="_blank"><img style="margin: 10px" src="https://about.gitlab.com/nuxt-images/ico/apple-touch-icon-180x180.png" alt="Git Lab" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in" target="_blank"><img style="margin: 10px" src="https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" alt="Azure" height="50" /></a>  
 </div>
 
 </td></tr></table>  
