@@ -33,7 +33,7 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </tr>
 </table>
 
-#### 🛠 Skill Set  
+### 🛠 Skill Set  
 <table>
 <tr>
 <th>Frontend</th>
@@ -85,35 +85,17 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </div>       
 </td></tr></table>  
 
-#### :pencil: Exploring Technology 
-<table>
-<tr>
-<th>Topic</th>
-<th>Name</th>
-<th>Repository</th>
-</tr>
-<tr>
-<td valign="center" width="33%">
-<div align="center">  
-Messaging Queue
- </div>
-</td><td valign="center" width="33%">
+### :pencil: Exploring Technology 
+`Caching`
+- [x] Memmory Cache (https://github.com/pankajlearning)
+- [x] Distributed Cache (https://github.com/pankajlearning)
+- [x] Redish Cache (https://github.com/pankajlearning)
+- [x] Sql Server Cache (https://github.com/pankajlearning)
 
-<div align="center">  
-    
-- [x] Azure Service Bus
-- [ ] RabitMQ
-- [ ] Mass Transit
-    
-</div>
-</td>
-<td valign="center" width="33%">
-<div align="center">  
-https://github.com/pankajlearning
-</div>       
-</td>
-</tr>
-</table> 
+`Messaging Queue`
+- [x] Azure Service Bus (https://github.com/pankajlearning)
+- [ ] RabitMQ (https://github.com/pankajlearning)
+- [ ] Mass Transit (https://github.com/pankajlearning)
 
 <br/> 
 
