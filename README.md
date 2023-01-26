@@ -7,7 +7,7 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 [![](https://img.shields.io/badge/-@pankajlearning-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://github.com/pankajlearning)
 [![](https://img.shields.io/badge/-@pankajlearning-%23181717?style=flat-square&logo=github)](https://github.com/pankajlearning)
 [![](https://img.shields.io/badge/-Pankaj%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/pankajlearning)](https://github.com/pankajlearning)
-
+<br/>  
 
 ### 🧐 More About Me:
 <table>
@@ -32,7 +32,6 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </td>
 </tr>
 </table>
-    
 
 ### 🛠 Skill Set  
 <table>
@@ -86,21 +85,13 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </div>       
 </td></tr></table>  
 
-<br/>  
-
-## Stats
+### Stats
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlearning&layout=compact)](https://github.com/pankajlearning/github-readme-stats)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
