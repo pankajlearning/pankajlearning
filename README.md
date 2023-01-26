@@ -41,9 +41,9 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 <th>DevOps</th>
 </tr>
 <tr>
-<td valign="top" width="33%">
+<td valign="center" width="33%">
 
-<div align="left">  
+<div align="center">  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" style="padding:20px"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg"alt=".NET"height="50" /></a>  
 <a href="https://angular.io/" target="_blank" style="padding:20px"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://dotnet.microsoft.com/en-us/learn/maui" target="_blank" style="padding:20px"><img style="margin: 10px" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2022/05/maui_blazor_mobile_desktop_web.png" alt="Maui" height="50" /></a>  
@@ -62,9 +62,9 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 <a href="https://sass-lang.com/" target="_blank" style="padding:20px"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank" style="padding:20px"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
  </div>
-</td><td valign="top" width="33%">
+</td><td valign="center" width="33%">
 
-<div align="left">  
+<div align="center">  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
@@ -72,10 +72,10 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="center" width="33%">
 
  
-<div align="left">  
+<div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com" target="_blank"><img style="margin: 10px" src="https://about.gitlab.com/nuxt-images/ico/apple-touch-icon-180x180.png" alt="Git Lab" height="50" /></a>  
@@ -85,13 +85,34 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </div>       
 </td></tr></table>  
 
+### 🛠 Exploring Technology 
+<table width="100%">
+<tr width="100%">
+<th valign="top" width="33%">Topic</th>
+<th valign="top" width="33%">Name</th>
+<th valign="top" width="33%">Link</th>
+</tr>
+<tr width="100%">
+<th valign="top" width="33%">
+    Messaging Queue
+</th>
+<td valign="top" width="33%">
+
+- [x] Azure Service Bus
+- [ ] RabitMQ
+- [ ] Mass Transit
+    
+</td>
+<td valign="top" width="33%">
+    
+</td>
+</tr>
+</table>
+<br/> 
+
 ### Stats
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlearning&layout=compact)](https://github.com/pankajlearning/github-readme-stats)
 
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+
