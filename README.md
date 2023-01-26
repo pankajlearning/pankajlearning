@@ -86,16 +86,16 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </td></tr></table>  
 
 ### :pencil: Exploring Technology 
-`Caching`
-- [x] Memmory Cache (https://github.com/pankajlearning)
-- [x] Distributed Cache (https://github.com/pankajlearning)
-- [x] Redish Cache (https://github.com/pankajlearning)
-- [x] Sql Server Cache (https://github.com/pankajlearning)
+1. `Caching`
+   - - [x] Memmory Cache (https://github.com/pankajlearning)
+   - - [x] Distributed Cache (https://github.com/pankajlearning)
+      - - [x] Redish Cache (https://github.com/pankajlearning)
+      - - [x] Sql Server Cache (https://github.com/pankajlearning)
 
-`Messaging Queue`
-- [x] Azure Service Bus (https://github.com/pankajlearning)
-- [ ] RabitMQ (https://github.com/pankajlearning)
-- [ ] Mass Transit (https://github.com/pankajlearning)
+2. `Messaging Queue`
+   - - [x] Azure Service Bus (https://github.com/pankajlearning)
+   - - [ ] RabitMQ (https://github.com/pankajlearning)
+   - - [ ] Mass Transit (https://github.com/pankajlearning)
 
 <br/> 
 
