@@ -33,7 +33,7 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </tr>
 </table>
 
-### 🛠 Skill Set  
+#### 🛠 Skill Set  
 <table>
 <tr>
 <th>Frontend</th>
@@ -85,32 +85,41 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 </div>       
 </td></tr></table>  
 
-### 🛠 Exploring Technology 
-<table width="100%">
-<tr width="100%">
-<th valign="top" width="33%">Topic</th>
-<th valign="top" width="33%">Name</th>
-<th valign="top" width="33%">Link</th>
+#### :pencil: Exploring Technology 
+<table>
+<tr>
+<th>Topic</th>
+<th>Name</th>
+<th>Repository</th>
 </tr>
-<tr width="100%">
-<th valign="top" width="33%">
-    Messaging Queue
-</th>
-<td valign="top" width="33%">
+<tr>
+<td valign="center" width="33%">
+<div align="center">  
+Messaging Queue
+ </div>
+</td><td valign="center" width="33%">
 
+<div align="center">  
+    
 - [x] Azure Service Bus
 - [ ] RabitMQ
 - [ ] Mass Transit
     
+</div>
 </td>
-<td valign="top" width="33%">
-    
+<td valign="center" width="33%">
+
+ 
+<div align="center">  
+
+</div>       
 </td>
 </tr>
-</table>
+</table> 
+
 <br/> 
 
-### Stats
+##### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlearning&layout=compact)](https://github.com/pankajlearning/github-readme-stats)
 
