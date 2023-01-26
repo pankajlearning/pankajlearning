@@ -18,7 +18,10 @@ I am a full stack, and .Net developer. [![](https://img.shields.io/badge/-@panka
 
 ## 🔗 Links
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pankajlearning&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 
 I am exploring .net and it's cloud technology, If you're interested in all things .NET make sure you check it out 😄!
 
