@@ -108,10 +108,8 @@ Messaging Queue
 </div>
 </td>
 <td valign="center" width="33%">
-
- 
 <div align="center">  
-
+https://github.com/pankajlearning
 </div>       
 </td>
 </tr>
