@@ -1,5 +1,23 @@
-### Hey 👋, I'm Pankaj Tiwari
 
+# Hey 👋, I'm Pankaj Tiwari!
+I am a full stack, and .Net developer.
+
+
+### 🧐 More About Me:
+👩‍💻 &nbsp; I'm currently working on learning .net cloud technology stack
+
+👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pankajlearning?tab=repositories)
+
+💬 &nbsp; Ask me about anything tech related, I am happy to help;
+
+📫 &nbsp; Feel free to ping me on [LinkedIn](https://github.com/pankajlearning?tab=repositories)
+
+📝 &nbsp; Checkout my [resume](https://github.com/pankajlearning?tab=repositories)
+
+
+## 🔗 Links
+
+[![](https://img.shields.io/badge/-@pankajlearning-%23181717?style=flat-square&logo=github)](https://github.com/pankajlearning)
 [![](https://img.shields.io/badge/-@pankajlearning-%23181717?style=flat-square&logo=github)](https://github.com/pankajlearning)
 
 I am exploring .net and it's cloud technology, If you're interested in all things .NET make sure you check it out 😄!
