@@ -85,7 +85,7 @@ I am exploring .Net7, it's cloud technology stacks and Xamarin Maui, If you're i
 <a href="https://azure.microsoft.com/en-in" target="_blank"><img style="margin: 10px" src="https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" alt="Azure" height="50" /></a>  
 </div>
 <a href="https://azure.microsoft.com/en-in" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png?20210815110837" alt="Azure" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&psig=AOvVaw326mvVkCOerssxbkxXsIWe&ust=1674821638061000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDkuPea5fwCFQAAAAAdAAAAABAE" alt="Azure" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="Docker" height="50" /></a>  
 </div>
         
 </td></tr></table>  
